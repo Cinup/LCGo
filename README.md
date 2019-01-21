@@ -14,6 +14,11 @@
 |题目:[21.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|:arrow_right:|代码:[合并两个有序链表](./code/mergeTwoLists.go)|
 |题目:[26.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|:arrow_right:|代码:[删除排序数组中的重复项](./code/removeDuplicates.go)
 |题目:[27.移除元素](https://leetcode-cn.com/problems/remove-element/)|:arrow_right:|代码:[移除元素](./code/removeElement.go)
-
+|题目:[35.搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|:arrow_right:|代码:[搜索插入位置](./code/searchInsert.go)|
+|题目:[38.报数](https://leetcode-cn.com/problems/count-and-say/)|:arrow_right:|代码:[报数](./code/countAndSay.go)|
+|题目:[53.最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|:arrow_right:|代码:[最大子序和](./code/maxSubArray.go)|
+|题目:[58.最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|:arrow_right:|代码:[最后一个单词的长度](./code/lengthOfLastWord.go)|
+|题目:[66.加一](https://leetcode-cn.com/problems/plus-one/)|:arrow_right:|代码:[加一](./code/plusOne.go)|
+|题目:[]()|:arrow_right:|代码:[]()|
 
 
