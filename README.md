@@ -20,6 +20,7 @@
 |题目:[58.最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)|:arrow_right:|代码:[最后一个单词的长度](./code/lengthOfLastWord.go)|
 |题目:[66.加一](https://leetcode-cn.com/problems/plus-one/)|:arrow_right:|代码:[加一](./code/plusOne.go)|
 |题目:[67.二进制求和](https://leetcode-cn.com/problems/add-binary/comments/)|:arrow_right:|代码:[二进制求和](./code/addBinary.go)|
+|题目:[69.x的平方根](https://leetcode-cn.com/problems/sqrtx/)|:arrow_right:|代码:[x的平方根](./code/mySqrt.go)|
+|题目:[70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|:arrow_right:|代码:[爬楼梯](./code/climbStairs.go)|
 |题目:[]()|:arrow_right:|代码:[]()|
-
 
