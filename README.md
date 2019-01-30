@@ -23,4 +23,5 @@
 |题目:[69.x的平方根](https://leetcode-cn.com/problems/sqrtx/)|:arrow_right:|代码:[x的平方根](./code/mySqrt.go)|
 |题目:[70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|:arrow_right:|代码:[爬楼梯](./code/climbStairs.go)|
 |题目:[83.删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|:arrow_right:|代码:[删除排序链表中的重复元素](./code/deleteDuplicates.go)|
+|题目:[88.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|:arrow_right:|代码:[合并两个有序数组](./code/merge.go)|
 |题目:[]()|:arrow_right:|代码:[]()|
