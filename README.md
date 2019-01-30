@@ -2,7 +2,7 @@
 [LeetCode](https://leetcode-cn.com)题解Go语言版。
 
 ## 题目
-### 难度简单
+### 难度:star2:简单
 |    题目   |               |代码   | 
 |----------|:-------------:|:------|
 |题目:[1.两数之和](https://leetcode-cn.com/problems/two-sum/)|:arrow_right:|代码:[两数之和](./code/twoSum.go)|
