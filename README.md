@@ -25,4 +25,6 @@
 |题目:[83.删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)|:arrow_right:|代码:[删除排序链表中的重复元素](./code/deleteDuplicates.go)|
 |题目:[88.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|:arrow_right:|代码:[合并两个有序数组](./code/merge.go)|
 |题目:[100.相同的树](https://leetcode-cn.com/problems/same-tree/submissions/)|:arrow_right:|代码:[相同的树](./code/isSameTree.go)|
+|题目:[101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|:arrow_right:|代码:[对称二叉树](./code/isSymmetric.go)|
+|题目:[104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|:arrow_right:|代码:[二叉树的最大深度](./code/maxDepth.go)|
 |题目:[]()|:arrow_right:|代码:[]()|
