@@ -27,6 +27,7 @@
 |题目:[100.相同的树](https://leetcode-cn.com/problems/same-tree/submissions/)|:arrow_right:|代码:[相同的树](./code/isSameTree.go)|
 |题目:[101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)|:arrow_right:|代码:[对称二叉树](./code/isSymmetric.go)|
 |题目:[104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|:arrow_right:|代码:[二叉树的最大深度](./code/maxDepth.go)|
+|题目:[136.只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|:arrow_right:|代码:[只出现一次的数字](./code/singleNumber.go)|
 |题目:[]()|:arrow_right:|代码:[]()|
 ### 难度:star2::star2:中等
 |    题目   |               |代码   | 

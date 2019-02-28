@@ -1,12 +1,16 @@
 package main
 
 import "fmt"
+func test(){
+	x,y := 1,2
+	x += 10
+	y += 10
+	fmt.Println(x,y)
+	defer func (i int){
+		fmt.Println(i,y)
+	}(x)
+}
 
-//本地测试使用
-func main() {
-	isexit := make(map[uint8]int)
-	isexit['s'] =1
-	fmt.Println(isexit['s'])
-	s,y := isexit['a']
-	fmt.Println(s,y)
+func main(){
+	test()
 }
