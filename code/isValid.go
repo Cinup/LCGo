@@ -8,7 +8,7 @@ func isValid(s string) bool {
 	m := make(map[uint8]uint8)
 	m['('] = ')'
 	m['['] = ']'
-	m['{'] = m['}']
+	m['{'] = '}'
 	end := len(s) - 1
 	//直接先判断首尾是否有效
 	if s[0] == ')' || s[0] == ']' || s[0] == '}' {
