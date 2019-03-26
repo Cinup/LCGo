@@ -199,7 +199,34 @@ package main
 //	}
 //}
 //=========================================
+//func convertToTitle(n int) string {
+//	return
+//}
 
+func hammingDistance(x int, y int) int {
+	for x > 0 && y > 0 {
+		x = x >> 1
+		y = y >> 1
+	}
+	if x > 0 {
+		return distance(x)
+	} else {
+		return distance(y)
+	}
+}
+func distance(x int) int {
+	dis := 0
+	for x > 0 {
+		x = x >> 1
+		dis++
+	}
+	return dis
+}
 func main() {
-
+	//A := []int{3,1,2,4}
+	//sortArrayByParity(A)
+	//fmt.Println(len(A))
+	//fmt.Println(0^1)
+	//fmt.Println(1^1)
+	hammingDistance(93,73)
 }
