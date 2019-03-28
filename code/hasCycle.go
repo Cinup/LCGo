@@ -4,7 +4,7 @@ package code
 * @Author:cp
 * @Parameter:链表的头节点
 * @Function:判断链表中是否有环
-* @Return:判断值
+* @Return:判断结果
 */
 func hasCycle(head *ListNode) bool {
 	//1个节点以下构不成环
