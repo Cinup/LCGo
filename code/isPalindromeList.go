@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:链表头节点
-* @Function:判断链表是否为回文链表
-* @Return:判断结果
-*/
 func isPalindromeList(head *ListNode) bool {
 	if head == nil {
 		return true
@@ -18,7 +12,7 @@ func isPalindromeList(head *ListNode) bool {
 	i, j := 0, len(result)-1
 	for i < j {
 		if result[i] != result[j] {
-			return  false
+			return false
 		}
 		i++
 		j--

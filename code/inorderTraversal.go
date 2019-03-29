@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:二叉树的根结点
-* @Function:二叉树的中序遍历
-* @Return:遍历数组
-*/
 //全局变量存储遍历结果
 var result []int
 

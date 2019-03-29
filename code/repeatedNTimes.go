@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:数组
-* @Function:在数组中找出重复了N次的元素
-* @Return:
-*/
 func repeatedNTimes(A []int) int {
 	i, length := 0, len(A)
 	for {

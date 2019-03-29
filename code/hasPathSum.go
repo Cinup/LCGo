@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:树的根结点,目标
-* @Function:树的路径上是否存在和为sum的路径
-* @Return:判断结果
-*/
 func hasPathSum(root *TreeNode, sum int) bool {
 	if root == nil {
 		return false

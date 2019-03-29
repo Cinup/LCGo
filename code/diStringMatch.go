@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:字符串
-* @Function:...难以描述
-* @Return:数组
-*/
 func diStringMatch(S string) []int {
 	min := 0
 	max := len(S)
@@ -20,5 +14,5 @@ func diStringMatch(S string) []int {
 		}
 	}
 	result[len(S)] = max
-	return  result[0:len(S)]
+	return result[0:len(S)]
 }

@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:两个整数
-* @Function:计算参数之间的汉明距离
-* @Return:汉明距离
-*/
 func hammingDistance(x int, y int) int {
 	distance := 0
 	for x > 0 && y > 0 {

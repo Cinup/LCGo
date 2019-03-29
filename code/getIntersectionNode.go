@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:两个链表头节点
-* @Function:找出两个链表相交的节点
-* @Return:相交节点
-*/
 func getIntersectionNode(headA, headB *ListNode) *ListNode {
 	if headA == nil || headB == nil {
 		return nil

@@ -37,18 +37,25 @@
 |题目:[226.翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|:arrow_right:|代码:[翻转二叉树](./code/invertTree.go)|
 |题目:[234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|:arrow_right:|代码:[回文链表](./code/isPalindromeList.go)|
 |题目:[237.删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|:arrow_right:|代码:[删除链表中的节点](./code/deleteNode.go)|
+|题目:[292.Nim游戏](https://leetcode-cn.com/problems/nim-game/)|:arrow_right:|代码:[Nim游戏](./code/canWinNim.go)|
+|题目:[344.反转字符串](https://leetcode-cn.com/problems/reverse-string/)|:arrow_right:|代码:[反转字符串](./code/reverseString.go)|
 |题目:[461.汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|:arrow_right:|代码:[汉明距离](./code/hammingDistance.go)|
+|题目:[476.数字的补数](https://leetcode-cn.com/problems/number-complement/)|:arrow_right:|代码:[数字的补数](./code/findComplement.go)|
 |题目:[617.合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|:arrow_right:|代码:[合并二叉树](./code/mergeTrees.go)|
 |题目:[657.机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)|:arrow_right:|代码:[机器人能否返回原点](./code/judgeCircle.go)|
 |题目:[709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)|:arrow_right:|代码:[转换成小写字母](./code/toLowerCase.go)|
+|题目:[728.自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)|:arrow_right:|代码:[自除数](./code/selfDividingNumbers.go)|
 |题目:[771.宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|:arrow_right:|代码:[宝石与石头](./code/numJewelsInStones.go)|
 |题目:[832.翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)|:arrow_right:|代码:[翻转图像](./code/flipAndInvertImage.go)|
+|题目:[852.山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|:arrow_right:|代码:[山脉数组的峰顶索引](./code/peakIndexInMountainArray.go)|
 |题目:[876.链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|:arrow_right:|代码:[链表的中间结点](./code/middleNode.go)|
 |题目:[905.按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)|:arrow_right:|代码:[按奇偶排序数组](./code/sortArrayByParity.go)|
 |题目:[922.按奇偶排序数组II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|:arrow_right:|代码:[按奇偶排序数组II](./code/sortArrayByParityII.go)|
 |题目:[942.增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/)|:arrow_right:|代码:[增减字符串匹配](./code/diStringMatch.go)|
+|题目:[944.删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)|:arrow_right:|代码:[删列造序](./code/minDeletionSize.go)|
 |题目:[977.有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|:arrow_right:|代码:[有序数组的平方](./code/sortedSquares.go)|
 |题目:[961.重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)|:arrow_right:|代码:[重复 N 次的元素](./code/repeatedNTimes.go)|
+|题目:|:arrow_right:|代码:[]()|
 |题目:|:arrow_right:|代码:[]()|
 |题目:|:arrow_right:|代码:[]()|
 |题目:|:arrow_right:|代码:[]()|

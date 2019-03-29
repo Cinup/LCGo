@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:链表头节点
-* @Function:反转链表
-* @Return:反转后的链表头节点
-*/
 func reverseList(head *ListNode) *ListNode {
 	//小于1个节点无需反转
 	if head == nil {

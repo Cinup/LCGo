@@ -1,11 +1,5 @@
 package code
 
-/*
-* @Author:cp
-* @Parameter:数据
-* @Function:对于j>i,找到最大的prices[j]-prices[i]
-* @Return:最大值
-*/
 func maxProfit1(prices []int) int {
 	max := 0
 	min := 0xffffff

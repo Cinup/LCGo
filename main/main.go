@@ -204,10 +204,5 @@ package main
 //}
 
 func main() {
-	//A := []int{3,1,2,4}
-	//sortArrayByParity(A)
-	//fmt.Println(len(A))
-	//fmt.Println(0^1)
-	//fmt.Println(1^1)
 
 }
