@@ -7,9 +7,9 @@ func numJewelsInStones(J string, S string) int {
 		return 0
 	}
 	num := 0
-	for _,v := range J{
+	for _, v := range J {
 
-		num+=strings.Count(S,string(v));
+		num += strings.Count(S, string(v))
 	}
 	return num
 }

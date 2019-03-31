@@ -15,5 +15,5 @@ func selfDividingNumbers(left int, right int) []int {
 			result = append(result, i)
 		}
 	}
-	return  result
+	return result
 }

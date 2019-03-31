@@ -19,8 +19,8 @@ func plusOne(digits []int) []int {
 	digits[0] += carry
 	if digits[0] == 10 {
 		digits[0] = 0
-		s := [] int {1}
-		digits = append(s,digits...)
+		s := []int{1}
+		digits = append(s, digits...)
 	}
 	return digits
 }

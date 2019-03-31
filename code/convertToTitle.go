@@ -7,6 +7,6 @@ func convertToTitle(n int) string {
 		b = append(b, byte(65+n%26))
 		n = n / 26
 	}
-	b = append(b,byte(n))
+	b = append(b, byte(n))
 	return string(b)
 }

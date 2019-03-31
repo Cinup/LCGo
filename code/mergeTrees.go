@@ -5,7 +5,7 @@ package code
 * @Parameter:两个树的根结点
 * @Function:合并两个树,相同位置的数字相加
 * @Return:合并后的树
-*/
+ */
 func mergeTrees(t1 *TreeNode, t2 *TreeNode) *TreeNode {
 	if t1 == nil {
 		return t2

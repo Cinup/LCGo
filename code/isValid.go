@@ -31,7 +31,7 @@ func isValid(s string) bool {
 		}
 		if len(result) == 0 {
 			next = ' '
-		}else {
+		} else {
 			next = result[len(result)-1]
 		}
 	}
@@ -39,5 +39,5 @@ func isValid(s string) bool {
 		return true
 
 	}
-	return  false
+	return false
 }

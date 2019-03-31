@@ -18,7 +18,7 @@ func getIntersectionNode(headA, headB *ListNode) *ListNode {
 	for headA != nil {
 		if headA == headB {
 			break
-		}else {
+		} else {
 			headA = headA.Next
 			headB = headB.Next
 		}

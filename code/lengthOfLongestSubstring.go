@@ -11,7 +11,7 @@ func lengthOfLongestSubstring1(s string) int {
 		for j := i + 1; j < len; j++ {
 			if isexit[s[j]] != 1 {
 				isexit[s[j]] = 1
-				num ++
+				num++
 			} else {
 				break
 			}
@@ -42,6 +42,7 @@ func lengthOfLongestSubstring2(s string) int {
 	}
 	return max
 }
+
 //优化滑动窗口
 func lengthOfLongestSubstring3(s string) int {
 	len := len(s)
