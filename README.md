@@ -51,19 +51,19 @@
 |题目:[709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)|:arrow_right:|代码:[转换成小写字母](./code/toLowerCase.go)|
 |题目:[728.自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)|:arrow_right:|代码:[自除数](./code/selfDividingNumbers.go)|
 |题目:[771.宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)|:arrow_right:|代码:[宝石与石头](./code/numJewelsInStones.go)|
+|题目:[821.字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)|:arrow_right:|代码:[字符的最短距离](./code/shortestToChar.go)|
 |题目:[832.翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)|:arrow_right:|代码:[翻转图像](./code/flipAndInvertImage.go)|
 |题目:[852.山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)|:arrow_right:|代码:[山脉数组的峰顶索引](./code/peakIndexInMountainArray.go)|
 |题目:[876.链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|:arrow_right:|代码:[链表的中间结点](./code/middleNode.go)|
 |题目:[905.按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)|:arrow_right:|代码:[按奇偶排序数组](./code/sortArrayByParity.go)|
+|题目:[908.最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)|:arrow_right:|代码:[最小差值 I](./code/smallestRangeI.go)|
 |题目:[922.按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|:arrow_right:|代码:[按奇偶排序数组II](./code/sortArrayByParityII.go)|
 |题目:[942.增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/)|:arrow_right:|代码:[增减字符串匹配](./code/diStringMatch.go)|
 |题目:[944.删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)|:arrow_right:|代码:[删列造序](./code/minDeletionSize.go)|
-|题目:[977.有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|:arrow_right:|代码:[有序数组的平方](./code/sortedSquares.go)|
 |题目:[961.重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)|:arrow_right:|代码:[重复 N 次的元素](./code/repeatedNTimes.go)|
 |题目:[965.单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/)|:arrow_right:|代码:[单值二叉树](./code/isUnivalTree.go)|
+|题目:[977.有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)|:arrow_right:|代码:[有序数组的平方](./code/sortedSquares.go)|
 |题目:[985.查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)|:arrow_right:|代码:[查询后的偶数和](./code/sumEvenAfterQueries.go)|
-|题目:|:arrow_right:|代码:[]()|
-|题目:|:arrow_right:|代码:[]()|
 |题目:|:arrow_right:|代码:[]()|
 |题目:|:arrow_right:|代码:[]()|
 |题目:|:arrow_right:|代码:[]()|
